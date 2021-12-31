@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gmail.nossr50:mcmmo:1.5.07">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gmail/nossr50/mcmmo/1.5.07/mcmmo-1.5.07.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gmail/nossr50/mcmmo/1.5.07/mcmmo-1.5.07-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gmail/nossr50/mcmmo/1.5.07/mcmmo-1.5.07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mineverse.aust1n46:venturechat:2.20.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mineverse/aust1n46/venturechat/2.20.1/venturechat-2.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mineverse/aust1n46/venturechat/2.20.1/venturechat-2.20.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mineverse/aust1n46/venturechat/2.20.1/venturechat-2.20.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
